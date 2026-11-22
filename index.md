@@ -1,51 +1,55 @@
 # Grid Rush: Privacy Policy
 
-**Effective date:** 15 November 2026
-**Developer:** Sunshine Gaming
-**Contact:** sahil1998jain.work@gmail.com
+**Last updated:** 22 November 2026
 
-This policy explains what information the Android game **Grid Rush: Block Puzzle Game** (package `com.sunshinegaming.gridrush`) uses, and why.
+Grid Rush: Block Puzzle Game ("the game") is made by Sunshine Gaming, an individual developer based in India. This page explains what data the game uses, why, and what choices you have.
 
-## The short version
+## In short
 
-- Grid Rush does not ask you to create an account or log in.
-- We do not collect your name, email address, phone number, contacts, photos or location.
-- In this version, everything the game saves stays on your phone. Nothing is sent to us or to anyone else.
-- The game shows no ads.
+- There is no login. The game never asks for your name, email address or phone number.
+- There are no ads, and the game does not collect the advertising ID.
+- The game sends gameplay analytics to Google Analytics for Firebase so we can understand how the game is played and improve it.
+- Coin purchases are handled by Google Play. We never see your card, UPI or bank details.
 
-## What the game saves on your phone
+## Data stored on your phone
 
-To keep your progress between sessions, the game saves a small file on your device containing:
+The game keeps a small save file on your phone with: a random anonymous player ID, your best score, coins, rounds played, your sound and music settings, receipts of purchases already turned into coins (so a purchase is never credited twice), and whether you have seen or bought the one-time Starter Pack. This file stays on your phone and is deleted when you uninstall the game. If Android backup is switched on for your phone, Android may restore it when you reinstall.
 
-- a random anonymous player ID (a code generated on first launch; it is not linked to your name, email or Google account)
-- your best score, coin balance and number of rounds played
-- your music and sound on/off settings
+## Analytics (Google Analytics for Firebase)
 
-This file is stored in the game's private storage on your phone. Other apps cannot read it, and we cannot see it.
+To improve the game, it sends the following to Google Analytics for Firebase, a service run by Google:
 
-## Permissions
+- **In-game activity:** for example rounds started and finished, scores, lines cleared, coins earned and spent, when the "Stuck!" screen appears and what you choose, visits to the coin shop, and purchases started, completed, pending or cancelled (with the product and its price).
+- **Identifiers:** a random app-instance ID created by Firebase for this installation, and, on purchase events only, the game's anonymous player ID.
+- **Device and app information:** such as phone model, Android version and the game's version.
+- **Approximate location:** your country or region, which Google works out from a shortened (masked) version of your IP address. The game does not ask for or use your precise location.
 
-- **Vibrate:** used for short vibrations when you play (for example when a line clears). It does not give access to any of your data.
+We use this data only to understand how the game is played and to improve it, for example its difficulty, its coin economy and its shop. It is not used for advertising: advertising storage and ad personalisation are switched off, and the advertising ID is not collected. We do not sell this data or share it with third parties. Google processes it for us as a service provider. Data is encrypted in transit.
 
-## Changes coming in future updates
+Google Analytics keeps detailed event data for 2 months. Summary reports, which are not about any individual player, may be kept longer.
 
-We plan to add the following. This policy will be updated before each change goes live:
+More about how Google uses data from apps that use its services: https://policies.google.com/technologies/partner-sites
+Google's privacy policy: https://policies.google.com/privacy
 
-- **Analytics (Google Firebase):** to understand how the game is played (for example, round scores and which features are used) so we can improve it. This will use the anonymous player ID, not your name or contact details.
-- **In-app purchases through Google Play:** payments will be handled entirely by Google Play. We will never see your card or bank details.
+## Purchases
 
-## Children
+Coin packs are sold through Google Play Billing. Google Play processes the payment. The game receives a confirmation of the purchase (the product, a purchase receipt and its status) so it can add your coins. The game passes its anonymous player ID to Google Play with each purchase to help Google prevent fraud. Google Play's handling of your payment is covered by Google's privacy policy.
 
-Grid Rush is intended for players aged 18 and over and is not directed at children.
+## Age
 
-## Deleting your data
+Grid Rush is intended for players aged 18 and over. We do not knowingly collect data from anyone under 18.
 
-You can delete everything the game has saved at any time by uninstalling the game or by clearing its storage (Settings → Apps → Grid Rush → Storage → Clear data).
+## Your choices
+
+- Uninstalling the game stops all data collection and deletes the save file on your phone.
+- Analytics data is not linked to your name, email or Google account, so we cannot look up or identify an individual player's data. It is deleted automatically as described above.
+- Questions about this policy: email us at the address below.
 
 ## Changes to this policy
 
-If this policy changes, we will update this page and the effective date above.
+If the game starts using data in a new way, we will update this page before that version is released, and change the date at the top.
 
 ## Contact
 
-Questions about this policy: sahil1998jain.work@gmail.com
+Sunshine Gaming
+Email: sahil1998jain.work@gmail.com
